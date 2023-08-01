@@ -12,7 +12,7 @@
         <div class="col-md-4">
             <h2>Getting Started</h2>
             <p>
-                ssumit kumar works ar brillio technologies
+                ssumit kumar workss ar brillio technologies
             A design surface and hundreds of controls and components let you rapidly build sophisticated, powerful UI-driven sites with data access.
             </p>
             <p>
